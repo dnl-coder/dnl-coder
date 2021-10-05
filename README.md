@@ -1,16 +1,15 @@
-### Hi there 👋
+![Portada](https://user-images.githubusercontent.com/65001610/136114761-556f2269-c833-493b-aa3f-0cf16c1f8969.jpeg)
 
-<!--
-**dnl-coder/dnl-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                            A Javascript enthusiast, father of a beautiful girl, and eternal learner.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Stack:
+   - Javascript
+   - React 
+   - Next.js
+   - GraphQL
+   - HTML5
+   - CSS3
+   - Node.js
+   - Express.js
+   - Nest.js
+   - AWS
