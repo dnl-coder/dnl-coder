@@ -13,3 +13,5 @@
    - Express.js
    - Nest.js
    - AWS
+   - MongoDB
+   - MySQL
