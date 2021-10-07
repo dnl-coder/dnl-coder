@@ -15,5 +15,6 @@
    - AWS
    - MongoDB
    - MySQL
+   - Python
 
 [Portfolio](https://portfolio-daniel-lingan.netlify.app/)
