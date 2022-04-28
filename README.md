@@ -5,6 +5,7 @@
   Stack:
    - Javascript
    - React 
+   - Typescript
    - Next.js
    - GraphQL
    - HTML5
