@@ -17,5 +17,6 @@
    - MongoDB
    - MySQL
    - Python
+   - VTEX
 
 [Portfolio](https://portfolio-daniel-lingan.netlify.app/)
