@@ -1,6 +1,6 @@
 ![Portada](https://user-images.githubusercontent.com/65001610/136114761-556f2269-c833-493b-aa3f-0cf16c1f8969.jpeg)
 
-                            A Javascript enthusiast, father of a beautiful girl, and eternal learner.
+                            A Javascript enthusiast, father of two beautifuls girls, and eternal learner.
 
   Stack:
    - Javascript
